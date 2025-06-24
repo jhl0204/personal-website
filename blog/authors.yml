@@ -23,3 +23,10 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+# Add your author information here
+junho:
+  name: Junho Lee
+  title: Site Owner
+  url: https://github.com/jhl0204
+  image_url: https://github.com/jhl0204.png

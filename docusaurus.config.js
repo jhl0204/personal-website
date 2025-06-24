@@ -20,9 +20,9 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://junholee.com',
+  url: 'https://jhl0204.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/',
+  baseUrl: '/personal-website/',
 
   // GitHub pages deployment config.
   organizationName: 'jhl0204', // Usually your GitHub username.
