@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[496],{455:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/personal-website/journal","page":1,"postsPerPage":5,"totalPages":1,"totalCount":4,"blogDescription":"A personal journal of thoughts, experiences, and reflections","blogTitle":"My Journal"}}')}}]);
