@@ -1,8 +1,8 @@
 {
-  "label": "Topics",
+  "label": "Options",
   "position": 3,
   "link": {
     "type": "doc",
-    "id": "topics/index"
+    "id": "topics/options/index"
   }
 } 
