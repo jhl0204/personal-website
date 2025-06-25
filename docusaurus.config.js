@@ -52,6 +52,11 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/jhl0204/personal-website/tree/main/',
+          exclude: [
+            'tutorial-basics/**',
+            'tutorial-extras/**',
+            '**/README.md',
+          ],
         },
         blog: {
           showReadingTime: true,
@@ -125,8 +130,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Projects',
+                to: '/docs/projects/welcome',
+              },
+              {
+                label: 'Topics',
+                to: '/docs/topics/welcome',
+              },
+              {
+                label: 'Workflow',
+                to: '/docs/workflow/welcome',
               },
             ],
           },

@@ -2,15 +2,30 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to my personal website! This space serves as a hub for my projects, thoughts, and technical explorations.
+
+## What You'll Find Here
+
+- **Projects**: A showcase of my technical projects and implementations
+- **Workflow**: Insights into my development processes and tools
+- **Topics**: Deep dives into various technical subjects:
+  - ML/AI: Explorations in machine learning and artificial intelligence
+  - Full Stack Development: Web development projects and learnings
+- **Journal**: Personal reflections and technical writing
+
+Feel free to explore the different sections using the navigation menu above. Each section is organized to provide clear and structured access to the content.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+The best way to explore this site is to:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+1. Browse through the **Projects** section to see my work
+2. Check out the **Topics** section for technical deep-dives
+3. Visit the **Journal** for my latest thoughts and updates
+
+I hope you find something interesting and useful here!
 
 ### What you'll need
 
